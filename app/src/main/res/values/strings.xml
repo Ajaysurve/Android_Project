@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wat To Do</string>
+    <string name="title_activity_list_main_page">ListMainPage</string>
+    <string name="title_activity_past_reminder">PastReminder</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>

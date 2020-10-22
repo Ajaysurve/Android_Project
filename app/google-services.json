@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51888886347",
+    "firebase_url": "https://wat-to-do-d74b8.firebaseio.com",
+    "project_id": "wat-to-do-d74b8",
+    "storage_bucket": "wat-to-do-d74b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51888886347:android:3c48ce6d30b05adea0b3ce",
+        "android_client_info": {
+          "package_name": "com.example.wattodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51888886347-1ifpd8e4ktbj3svm0ivfepo1a4727dhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqIUh_BJbnxF2eMZVyD6YgjfFIkjAUKAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51888886347-1ifpd8e4ktbj3svm0ivfepo1a4727dhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

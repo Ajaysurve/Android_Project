@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/login</item>
+        <item name="colorPrimaryDark">@color/login</item>
+        <item name="colorAccent">@color/login</item>
+        <item name="android:forceDarkAllowed" tools:ignore="NewApi">true</item>
+    </style>
+
+    <style name="AppTheme.darkMode" parent="Theme.AppCompat.Light.NoActionBar" tools:ignore="DuplicateDefinition">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/login</item>
+        <item name="colorPrimaryDark">@color/login</item>
+        <item name="colorAccent">@color/login</item>
+        <item name="android:forceDarkAllowed" tools:ignore="NewApi">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:forceDarkAllowed">true</item>
+    </style>
+
+</resources>
